@@ -1,0 +1,26 @@
+{
+  "name": "ml-brain-js",
+  "version": "1.0.0",
+  "description": "Machine Learning based Color decider",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinny17690/machine-learning-brain-js.git.git"
+  },
+  "keywords": [
+    "Machine Learning",
+    "brain js model"
+  ],
+  "author": "Vinay Tallapalli",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vinny17690/machine-learning-brain-js.git/issues"
+  },
+  "homepage": "https://github.com/vinny17690/machine-learning-brain-js.git#readme",
+  "dependencies": {
+    "brain.js": "^1.1.2"
+  }
+}
